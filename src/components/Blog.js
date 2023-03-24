@@ -56,7 +56,7 @@ const Blog = () => {
           <div className="container">
             <div className="devman_tm_main_title" data-text-align="center">
               <span>Latest News</span>
-              <h3>Checkout My Recent Blogs</h3>
+              <h3>Checkout our Recent Blogs</h3>
               <p>
                 Dliquip ex ea commo do conse namber onequa ute irure dolor in
                 reprehen derit in voluptate
