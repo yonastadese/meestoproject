@@ -50,11 +50,7 @@ const MobileHeader = () => {
             <li>
               <a href="#blog">Blog</a>
             </li>
-            <li className="download_cv">
-              <a href="img/cv/1.jpg" download>
-                Download CV
-              </a>
-            </li>
+           
           </ul>
         </div>
       </div>
